@@ -4,7 +4,8 @@ tailwind.config = {
       colors: {
         clifford: '#da373d',
         headerbg: '#282828',
-        sada: '#fff'
+        sada: '#fff',
+        primary: '#F40404'
       },
       maxWidth: {
         'container': '1144px',
