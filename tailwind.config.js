@@ -10,13 +10,13 @@ tailwind.config = {
       maxWidth: {
         'container': '1144px',
       },
-      theme: {
-        fontFamily: {
-          'poppins': "'Poppins', sans-serif",
+      fontFamily: {
+        'poppins': "'Poppins', sans-serif",
+      },
+      backgroundImage: {
+          'banner': "linear-gradient(rgba(0, 0, 0, 0.60),rgba(0, 0, 0, 0.60)), url('images/banner_solid_pic.jpg')",
           
-        }
-    
-    }
+      }
   }
 }
 }
